@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @User390445
+<!---
 - 👀 I’m interested in Python, Bash, Web Development Frontend and Backend
 - 🌱 I’m currently learning Backend with Python. 
+--->
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
